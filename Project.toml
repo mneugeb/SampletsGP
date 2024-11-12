@@ -1,0 +1,16 @@
+name = "SampletsGP"
+uuid = "eb03a487-f4e3-4f77-9e9c-114a68f31ba6"
+authors = ["Marcel Neugebauer"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
+[compat]
+julia = "1"
