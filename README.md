@@ -52,5 +52,6 @@ This project requires:
 * FMCA module
 
 # References
-* https://edoc.unibas.ch/87915/1/2022-05.pdf
+* https://arxiv.org/abs/2411.07277
+* https://www.sciencedirect.com/science/article/pii/S0021999122006799
 * https://github.com/muchip/fmca/tree/master
